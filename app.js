@@ -1,7 +1,7 @@
 /**
  * Example store structure
  */
-const store = {
+const store =  {
   // add 10 questions
   questions: [
     {
