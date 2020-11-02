@@ -132,11 +132,11 @@ const store = {
   function generateQuestionPage() {
     // Generates question page
   
-    let questionNum = store.questionNumber;
-    let question = getQuestions();
-    let score = store.score;
+  let questionNum = store.questionNumber;
+  let question = getQuestions();
+  let score = store.score;
   
-    let template = `<form class='container'>
+let template = `<form class='container'>
       <div class='wrapper'>
         <h2> Question ${questionNum + 1}</h2>
         <p>${question.question}</p>
