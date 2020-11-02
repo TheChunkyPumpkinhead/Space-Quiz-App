@@ -127,7 +127,7 @@ const store = {
     show(template);
   }
   
-  // make sure to have function update the state
+  
   
   function generateQuestionPage() {
     // Generates question page
