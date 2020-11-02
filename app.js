@@ -2,7 +2,7 @@
  * Example store structure
  */
 const store = {
-  // 5 or more questions are required
+  // add 10 questions
   questions: [
     {
       question: 'What is the distance to the moon from Earth?',
