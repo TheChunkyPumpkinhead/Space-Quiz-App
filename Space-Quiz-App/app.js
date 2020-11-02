@@ -116,8 +116,8 @@ const store = {
   
   // generate HTML functions
   function generateStartPage() {
-    // Generates start page
-    const template = `<div class='container'>
+    // Generates start page 
+  const template = `<div class='container'>
                         <div class='wrapper'>
                           <h1> Space Quiz </h1>
                           <button id='start-quiz' class='next-question'>Blast Off</button>
