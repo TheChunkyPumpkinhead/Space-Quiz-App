@@ -81,4 +81,4 @@ let questions = [
     questionCorrectChoice: 4,
     correctDetails: '$12,000,000'
 }
-   ]
+ ]
