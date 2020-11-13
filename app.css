@@ -64,7 +64,7 @@ p {
 }
 
 .submit-answer:hover, .next-question:hover, .finish-quiz:hover, .restart-quiz:hover{
-  background-color: silver;
+  background-color: purple;
   color: black;
   transition: 0.3s;
 }
